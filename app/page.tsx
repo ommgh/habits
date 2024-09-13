@@ -21,7 +21,7 @@ export default function LandingPage() {
             <div className="flex-shrink-0 flex items-center">
               <CheckCircle className="h-8 w-8 text-purple-600" />
               <span className="ml-2 text-xl font-bold text-white">
-                HabitHub
+                Habituals
               </span>
             </div>
             <div className="hidden md:flex items-center">
@@ -67,7 +67,7 @@ export default function LandingPage() {
           <span className="text-purple-600">Achieve Your Goals</span>
         </h1>
         <p className="mt-6 text-lg sm:text-xl text-gray-500 max-w-3xl mx-auto">
-          HabitHub helps you create and maintain positive habits, track your
+          Habituals helps you create and maintain positive habits, track your
           progress, and achieve your personal goals with powerful insights and
           motivating reminders.
         </p>

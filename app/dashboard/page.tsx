@@ -33,7 +33,7 @@ export default function HabitDashboard() {
       {/* Sidebar */}
       <aside className="w-64 bg-black shadow-md border-r">
         <div className="p-4">
-          <h1 className="text-2xl font-bold text-white">Habit Tracker</h1>
+          <h1 className="text-2xl font-bold text-white">Habituals</h1>
         </div>
         <nav className="mt-4">
           {["dashboard", "goals", "analytics", "settings"].map((tab) => (
